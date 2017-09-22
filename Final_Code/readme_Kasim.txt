@@ -1,0 +1,1 @@
+Here there is code for running SVM on the 2 datasets (2 Class & 15 Class)
