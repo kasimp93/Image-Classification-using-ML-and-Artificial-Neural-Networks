@@ -1,4 +1,4 @@
-
+%Author: Iman Abdalla, April 2017.
 % what you need to run this code is the weights for all the features and
 % for all 2, 15 classes, the images vector of the extracted data and the corresponding images.
 % i have provided the weights for 15 scene combined and gist as examples
