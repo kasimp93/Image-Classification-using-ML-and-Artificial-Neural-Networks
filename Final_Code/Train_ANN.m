@@ -1,3 +1,4 @@
+%Author: Iman Abdalla, April 2017.
 function [cost_vec,Weights,predicted_train,output]=Train_ANN_is(lambda,iterations,Data,OutputNodes,W,S,Sh,L,alpha,bias,labels,S_vec)
 
 
