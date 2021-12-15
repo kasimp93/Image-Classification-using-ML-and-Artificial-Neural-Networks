@@ -1,3 +1,4 @@
+%Author: Iman Abdalla, April 2017.
 function [Predictions,output]=Test_ANN(TestData,OutputNodes,W,S,L,bias,S_vec,Sh)
 
 input=zeros(L,S+1);
